@@ -1,5 +1,5 @@
 <?php
-<!-- //savali codes -->
+// savali codes
 	include 'includes/session.php';
 
 	$conn = $pdo->open();
