@@ -1,4 +1,5 @@
 <?php
+<!-- //savali codes -->
 	include 'includes/session.php';
 
 	$conn = $pdo->open();
