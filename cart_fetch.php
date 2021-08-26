@@ -1,4 +1,6 @@
 <?php
+
+// wejofe codes
 	include 'includes/session.php';
 	$conn = $pdo->open();
 
