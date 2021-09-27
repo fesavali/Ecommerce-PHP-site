@@ -1,5 +1,5 @@
 <?php
-// savali codes updates selected items 
+// savali codes updates selected items to 
 	include 'includes/session.php';
 
 	$conn = $pdo->open();
