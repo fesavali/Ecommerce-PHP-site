@@ -1,5 +1,5 @@
 <?php
-// savali codes updates selected items to 
+// savali codes updates selected items to cart
 	include 'includes/session.php';
 
 	$conn = $pdo->open();
