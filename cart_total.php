@@ -1,5 +1,5 @@
 <?php
-// savali codes sums total for 
+// savali codes sums total for items 
 	include 'includes/session.php';
 
 	if(isset($_SESSION['user'])){
