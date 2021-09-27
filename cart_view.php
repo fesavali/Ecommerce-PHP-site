@@ -1,5 +1,5 @@
 <?php include 'includes/session.php'; ?>
-<!-- savali codes -->
+<!-- savali codes  displays -->
 <?php include 'includes/header.php'; ?>
 <body class="hold-transition skin-blue layout-top-nav">
 <div class="wrapper">
