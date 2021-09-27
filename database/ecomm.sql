@@ -25,7 +25,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `cart`
 --
-
+-- setup db for the app
 CREATE TABLE IF NOT EXISTS `cart` (
 `id` int(11) NOT NULL,
   `user_id` int(11) NOT NULL,
