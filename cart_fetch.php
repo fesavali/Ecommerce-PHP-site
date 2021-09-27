@@ -1,6 +1,6 @@
 <?php
 
-// wejofe codes get items
+// wejofe codes get items in cart
 	include 'includes/session.php';
 	$conn = $pdo->open();
 
